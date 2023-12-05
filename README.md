@@ -17,6 +17,8 @@
 :white_check_mark:Разность максимального и минимального по модулю = max(|a|,|b|) - min(|a|,|b|);
 
 ____
-Программу желательно запускать в IDE JetBrains Community Edition 2023                             
-Программa создавалась в IDE JetBrains Community Edition 2023.2.1                         
+Программу желательно запускать в IDE JetBrains Community Edition 2023
+
+Программa создавалась в IDE JetBrains Community Edition 2023.2.1
+
 Нужно запустить программу а далее ввести два числа поочередно.
